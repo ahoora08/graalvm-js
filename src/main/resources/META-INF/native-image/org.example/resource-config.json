@@ -1,0 +1,14 @@
+{
+  "resources":{
+    "includes":[
+      {"pattern":".*/META-INF/.*"},
+      {"pattern":".*xml"},
+      {"pattern":".*txt"},
+      {"pattern":".*yaml"},
+      {"pattern":".*yml"},
+      {"pattern":".*jks"},
+      {"pattern":".*properties"},
+      {"pattern":".*js"}
+    ]},
+  "bundles":[]
+}
